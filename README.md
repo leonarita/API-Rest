@@ -5,6 +5,8 @@ Projeto de API com NodeJS, Express e MongoDB.
 
 ## Principais Ferramentas Utilizadas
 
+<br>
+
 ### * express
   * Framework utilizado para criar a API.
   <br>
@@ -23,5 +25,7 @@ Projeto de API com NodeJS, Express e MongoDB.
   
 ### * nodemailer
   * Framework utilizado para enviar email automaticamente a partir de um template de email (HTML) previamente criado.
-  * No projeto, o email possui a finalidade de alterar a senha.
   <br>
+  <br>
+  
+  _Pendência: Neste projeto, o email não consegue enviar corretamente o template com o token para alterar a senha._ 
