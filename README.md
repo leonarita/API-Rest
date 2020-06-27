@@ -2,6 +2,16 @@
 
 Projeto de API com NodeJS, Express e MongoDB.
 <br>
+<br>
+
+## Funcionalidades
+
+1. CRUD
+2. Autenticação
+3. Recuperação de senha
+
+<br>
+<br>
 
 ## Principais Ferramentas Utilizadas
 
