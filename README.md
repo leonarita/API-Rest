@@ -11,7 +11,6 @@ Projeto de API com NodeJS, Express e MongoDB.
 3. Recuperação de senha
 
 <br>
-<br>
 
 ## Principais Ferramentas Utilizadas
 
