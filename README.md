@@ -5,23 +5,23 @@ Projeto de API com NodeJS, Express e MongoDB.
 
 ## Principais Ferramentas Utilizadas
 
-* express
+### * express
   * Framework utilizado para criar a API.
   <br>
   
-* bcryptjs
+### * bcryptjs
   * Framework utilizado para criptografia.
   <br>
   
-* jsonwebtoken
+### * jsonwebtoken
   * Framework utilizado para criar token de autenticação.
   <br>
   
-* mongoose
+### * mongoose
   * Framework utilizado para conectar a API com o mongoDB.
   <br>
   
-* nodemailer
+### * nodemailer
   * Framework utilizado para enviar email automaticamente a partir de um template de email (HTML) previamente criado.
   * No projeto, o email possui a finalidade de alterar a senha.
   <br>
