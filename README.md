@@ -37,4 +37,4 @@ Projeto de API com NodeJS, Express e MongoDB.
   <br>
   <br>
   
-  _Pendência: Neste projeto, o email não consegue enviar corretamente o template com o token para alterar a senha._ 
+  _Pendência: Neste projeto, o email não consegue enviar a mensagem._ 
